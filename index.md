@@ -1,17 +1,19 @@
 ---
 ---
 
-# palomarlab's Website
+# Palomar Lab
 
-An engaging 1-3 sentence description of your lab.
+We are interested on the study of chloroplast chromatin dynamics.
 
 {% include section.html %}
 
 ## Highlights
 
+The Palomar Lab is set to open on August 1st, 2023
+
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Browse our publications.
 
 {%
   include button.html
@@ -34,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn about our projects.
 
 {%
   include button.html
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team.
 
 {%
   include button.html
