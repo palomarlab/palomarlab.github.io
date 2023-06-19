@@ -13,7 +13,7 @@ The Palomar Lab is set to open on August 1st, 2023
 
 {% capture text %}
 
-Browse our publications.
+We are interested in investigating how the chloroplast genome is organized within the nucleoid. Our aim is to understand this organization from an evolutionary perspective and apply this understanding for the design of more efficient chloroplast genomes.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Browse our publications.
 
 {% capture text %}
 
-Learn about our projects.
+Our projects are based on two different avenues: 1) Understanding the genome organization in the green alga Chlamydomonas reinhardtii, and compare with our current models of land plant chloroplast nucleoids. 2) Analyze the effects of a highly efficient transcription process on the chloroplast DNA topology.
 
 {%
   include button.html
@@ -61,7 +61,7 @@ Learn about our projects.
 
 {% capture text %}
 
-Meet our team.
+We are aimed to build a collaborative, inclusive and diverse team.
 
 {%
   include button.html
