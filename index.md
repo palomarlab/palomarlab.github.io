@@ -2,14 +2,13 @@
 ---
 
 # Palomar Lab
-
 We are interested on the study of chloroplast chromatin dynamics.
-
 {% include section.html %}
 
 ## Highlights
 
-The Palomar Lab is set to open on August 1st, 2023
+This website is under construction.
+The Palomar Lab is set to open on August 1st, 2023.
 
 {% capture text %}
 
