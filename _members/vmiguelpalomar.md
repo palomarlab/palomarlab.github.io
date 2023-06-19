@@ -1,6 +1,6 @@
 ---
 name: V. Miguel Palomar
-image: images/photo.jpg
+image: images/miguel.jpg
 role: pi
 aliases:
   - Miguel Palomar
