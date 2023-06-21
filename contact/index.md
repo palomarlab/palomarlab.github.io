@@ -35,7 +35,7 @@ We are located at Laboratory 106, Conjunto E - Ciudad Universitaria (UNAM), Mexi
 {%
   include figure.html
   image="images/photo1.png"
-  caption="L-103 Conjunto E
+  caption="Lab 106 Conjunto E
 Circuito Exterior S/N Ciudad Universitaria, Coyoacán, CP 04510
 Ciudad de Mexico, Mexico."
 %}
