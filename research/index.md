@@ -13,7 +13,7 @@ In this section you will find our published work.
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Transcription-directed membrane association organizes the chloroplast nucleoid structure" style="rich" %}
 
 {% include section.html %}
 
