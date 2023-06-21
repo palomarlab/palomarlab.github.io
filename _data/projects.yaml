@@ -1,7 +1,7 @@
 - title: Chloroplast nucleoid organization in Chlamydomonas reinhardtii.
   subtitle: 
   group: featured
-  image: images/photo3.jpg
+  image: images/photo3.png
   #link: https://github.com/
   description: We use whole-genome sequencing techniques and bioinformatics to explore the nucleoid organization in Chlamydomonas and land plants
   #repo: greenelab/lab-website-template
@@ -11,7 +11,7 @@
 - title: Analysis of DNA topology in the chloroplast nucleoid.
   subtitle: a subtitle
   group: featured
-  image: images/photo2.jpg
+  image: images/photo2.png
   #link: https://github.com/
   description: Because the chloroplast has an exceptionally efficient transcription, we explore the effects of this process in the DNA topology.
   #repo: greenelab/lab-website-template
