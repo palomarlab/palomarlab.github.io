@@ -27,3 +27,19 @@ Past team members
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+Fun in the lab!
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" %}=
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
