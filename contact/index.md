@@ -25,7 +25,7 @@ We are located at Laboratory 106, Conjunto E - Ciudad Universitaria (UNAM), Mexi
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+link="https://www.google.com/maps/place/Conjuntos+D+y+E+de+la+Facultad+de+Qu%C3%ADmica/@19.322907,-99.1803111,17z/data=!3m1!4b1!4m6!3m5!1s0x85ce0010115cfbaf:0xcb7a0dd9e8c3c947!8m2!3d19.322907!4d-99.1777362!16s%2Fg%2F11cn9tzg7y?entry=ttu"
 %}
 
 {% include section.html %}
