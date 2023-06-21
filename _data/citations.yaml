@@ -12,11 +12,27 @@
   - Joyful Wang
   - Andrzej T. Wierzbicki
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-13'
+  date: ''
   link: https://doi.org/gsc322
   orcid: 0000-0003-4009-7030
   plugin: sources.py
   file: sources.yaml
+  type: paper
+  description: Transcription-directed membrane association organizes the chloroplast
+    nucleoid structure
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: null
+    link: null
+  - type: null
+    text: null
+    link: null
+  - type: null
+    link: null
+  tags:
+  - open science
+  - collaboration
+  repo: null
 - id: doi:10.1111/tpj.16149
   title: "<scp><i>N</i><sup>6</sup>\u2010Methyladenosine</scp> modification of <scp>mRNA</scp>\
     \ contributes to the transition from <scp>2D</scp> to <scp>3D</scp> growth in\
