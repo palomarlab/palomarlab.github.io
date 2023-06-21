@@ -27,7 +27,7 @@ We are interested in investigating how the chloroplast genome is organized withi
 
 {%
   include feature.html
-  image="images/photo1.png"
+  image="images/photo2.png"
   link="research"
   title="Our Research"
   text=text
@@ -50,7 +50,7 @@ Our projects are based on two different avenues: 1) Understanding the genome org
 
 {%
   include feature.html
-  image="images/photo2.png"
+  image="images/photo3.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -75,7 +75,7 @@ We are aimed to build a collaborative, inclusive and diverse team.
 
 {%
   include feature.html
-  image="images/photo3.png"
+  image="images/photo1.png"
   link="team"
   title="Our Team"
   text=text
