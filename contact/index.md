@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you have any questions or are interested in joining our lab, please contact Miguel.
+We are located at Laboratory 106, Conjunto E - Ciudad Universitaria (UNAM), Mexico City
 
 {%
   include button.html
@@ -34,8 +34,10 @@ If you have any questions or are interested in joining our lab, please contact M
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/photo1.jpg"
+  caption="L-103 Conjunto E
+Circuito Exterior S/N Ciudad Universitaria, Coyoacán, CP 04510
+Ciudad de Mexico, Mexico."
 %}
 
 {% endcapture %}
@@ -44,8 +46,8 @@ If you have any questions or are interested in joining our lab, please contact M
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/photo2.jpg"
+  caption=" "
 %}
 
 {% endcapture %}
@@ -55,21 +57,15 @@ If you have any questions or are interested in joining our lab, please contact M
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+_
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+_
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+_
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
