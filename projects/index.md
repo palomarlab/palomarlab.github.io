@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Our Research
 nav:
   order: 2
-  tooltip: Abour or Research
+  tooltip: Abour our Research
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
