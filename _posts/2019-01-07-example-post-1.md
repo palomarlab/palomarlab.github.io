@@ -1,10 +1,10 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Miguel joins the Department of Biochemistry
+author:
 tags:
-  - biology
-  - medicine
-  - big data
+  - Miguel
+  - Biochemistry
+  - hire
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Miguel Joined the Department of Biochemistry of the School of Sciences, UNAM, as an Assistant Professor (Profesor Asociado C, TC) on June 1st 2023 
