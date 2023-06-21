@@ -9,7 +9,7 @@
   #  - resource
 
 - title: Analysis of DNA topology in the chloroplast nucleoid.
-  subtitle: a subtitle
+  subtitle:
   group: featured
   image: images/photo2.png
   #link: https://github.com/
