@@ -34,7 +34,7 @@ link="https://www.google.com/maps/place/Conjuntos+D+y+E+de+la+Facultad+de+Qu%C3%
 
 {%
   include figure.html
-  image="images/photo1.png"
+  image="images/photo4.png"
   caption="Lab 106 Conjunto E
 Circuito Exterior S/N Ciudad Universitaria, Coyoacán, CP 04510
 Ciudad de Mexico, Mexico."
@@ -46,7 +46,7 @@ Ciudad de Mexico, Mexico."
 
 {%
   include figure.html
-  image="images/photo2.png"
+  image="images/photo1.png"
   caption=" "
 %}
 
