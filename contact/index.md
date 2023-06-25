@@ -57,15 +57,15 @@ Ciudad de Mexico, Mexico."
 {% include section.html dark=true %}
 
 {% capture col1 %}
-_
+#_
 {% endcapture %}
 
 {% capture col2 %}
-_
+#_
 {% endcapture %}
 
 {% capture col3 %}
-_
+#_
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
