@@ -35,7 +35,7 @@ We are interested in investigating how the chloroplast genome is organized withi
 
 {% capture text %}
 
-Our projects are based on two different avenues: 1) Understanding the genome organization in the green alga Chlamydomonas reinhardtii, and compare with our current models of land plant chloroplast nucleoids. 2) Analyze the effects of a highly efficient transcription process on the chloroplast DNA topology.
+Our projects are based on two different avenues: 1) Understanding the genome organization in the green alga *Chlamydomonas reinhardtii*, and compare with our current models of land plant chloroplast nucleoids. 2) Analyze the effects of a highly efficient transcription process on the chloroplast DNA topology.
 
 {%
   include button.html
