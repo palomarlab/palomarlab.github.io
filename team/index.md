@@ -22,7 +22,7 @@ Past team members
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}=
+{% include figure.html image="images/photo11.jpg" %}=
 
 {% endcapture %}
 
@@ -37,7 +37,7 @@ Fun in the lab!
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}=
+{% include figure.html image="images/photo11.jpg" %}=
 
 {% endcapture %}
 
