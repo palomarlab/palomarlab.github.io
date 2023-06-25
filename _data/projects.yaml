@@ -3,7 +3,7 @@
   group: featured
   image: images/photo3.png
   #link: https://github.com/
-  description: We use whole-genome sequencing techniques and bioinformatics to explore the nucleoid organization in Chlamydomonas and land plants
+  description: We use whole-genome sequencing techniques and bioinformatics to explore the nucleoid organization in *Chlamydomonas reinhardtii* and land plants
   #repo: greenelab/lab-website-template
   #tags:
   #  - resource
