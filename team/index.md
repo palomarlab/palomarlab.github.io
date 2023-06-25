@@ -16,13 +16,13 @@ Current team members
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Past team members
+Past team members / Coming soon
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo11.jpg" %}=
+#{% include figure.html image="images/photo11.jpg" %}=
 
 {% endcapture %}
 
@@ -31,13 +31,13 @@ Past team members
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Fun in the lab!
+Fun in the lab! / Coming soon
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo11.jpg" %}=
+#{% include figure.html image="images/photo11.jpg" %}=
 
 {% endcapture %}
 
