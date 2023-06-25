@@ -22,7 +22,7 @@ Past team members / Coming soon
 
 {% capture content %}
 
-#{% include figure.html image="images/photo11.jpg" %}=
+{% include figure.html image="images/photo11.jpg" %}=
 
 {% endcapture %}
 
@@ -37,7 +37,7 @@ Fun in the lab! / Coming soon
 
 {% capture content %}
 
-#{% include figure.html image="images/photo11.jpg" %}=
+{% include figure.html image="images/photo11.jpg" %}=
 
 {% endcapture %}
 
