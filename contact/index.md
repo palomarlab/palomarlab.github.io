@@ -52,3 +52,5 @@ Ciudad de Mexico, Mexico."
 
 {% endcapture %}
 
+{% include section.html dark=true %}
+
