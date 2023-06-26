@@ -52,20 +52,3 @@ Ciudad de Mexico, Mexico."
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-_
-{% endcapture %}
-
-{% capture col2 %}
-_
-{% endcapture %}
-
-{% capture col3 %}
-_
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
