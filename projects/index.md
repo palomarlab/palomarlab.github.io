@@ -23,4 +23,4 @@ We are interested in understanding the mechanisms that drive the three-dimension
 
 ## More 
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: more" style="small" %}
