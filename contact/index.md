@@ -47,7 +47,7 @@ Ciudad de Mexico, Mexico."
 {%
   include figure.html
   image="images/photo1.png"
-  caption=" We are looking for motivated people to join the lab at the undergrad, graduate student and postdoc. We will work together to join one of several programs UNAM offers or to get funding. Please contact us if you are interested."
+  caption=" We are looking for motivated people to join the lab at undergrad, graduate student, or postdoc levels. We will work together to join one of several programs UNAM offers, or to get funding. Please contact us if you are interested."
 %}
 
 {% endcapture %}
