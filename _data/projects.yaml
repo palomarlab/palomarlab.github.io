@@ -18,12 +18,12 @@
   #tags:
   #  - resource
 
-#- title: Analysis of DNA topology in the chloroplast nucleoid.
-#  subtitle: a subtitle
-#  group: more
-#  image: images/photo2.jpg
-#  link: https://github.com/
-#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: PlaVisTo (Plastid-genome Visualization Tool).
+  subtitle: a subtitle
+  group: more
+  image: images/plavisto.png
+  link: https://plavisto.mcdb.lsa.umich.edu/
+  description: Plavisto is a tool developed by Dr. Wierzbicki's group to browse sequencing data of plastid genomes. It currently supports data in Arabidopsis.
 #  repo: greenelab/lab-website-template
-#  tags:
-#    - resource
+  tags:
+    - resource
