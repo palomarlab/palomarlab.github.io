@@ -19,7 +19,7 @@
   #  - resource
 
 - title: PlaVisTo (Plastid-genome Visualization Tool).
-  subtitle: a subtitle
+  subtitle:
   group: more
   image: images/plavisto.png
   link: https://plavisto.mcdb.lsa.umich.edu/
