@@ -38,6 +38,7 @@ link="https://www.google.com/maps/place/Conjuntos+D+y+E+de+la+Facultad+de+Qu%C3%
   caption="Lab 106 Conjunto E
 Circuito Exterior S/N Ciudad Universitaria, Coyoacán, CP 04510
 Ciudad de Mexico, Mexico."
+link="https://bioquimica.quimica.unam.mx/"
 %}
 
 {% endcapture %}
