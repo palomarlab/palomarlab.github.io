@@ -7,8 +7,7 @@ We are interested on the study of chloroplast chromatin dynamics.
 
 ## Highlights
 
-This website is under construction.
-The Palomar Lab is set to open on August 1st, 2023.
+The Palomar Lab opened on August 1st, 2023. We are currently recruiting motivated people interested in plant genomics.
 
 {% capture text %}
 
