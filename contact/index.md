@@ -12,14 +12,14 @@ We are located at Laboratory 106, Conjunto E - Ciudad Universitaria (UNAM), Mexi
 {%
   include button.html
   type="email"
-  text="vpalomar[at]umich[dot]edu"
-  link="vpalomar@umich.edu"
+  text="vmiguelpalomar[at]quimica[dot]unam[dot]mx"
+  link="vmiguelpalomar@quimica.unam.mx"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) XXX-XXXX"
-  link="+52-555-XXX-XXXX"
+  text="+52-555-622-5377"
+  link="+52-555-622-5377"
 %}
 {%
   include button.html
