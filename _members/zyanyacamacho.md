@@ -1,6 +1,6 @@
 ---
 name: Zyanya Quetzalli Tapia Camacho 
-image: images/Zyanya.jpg
+image: images/Zyanya.png
 role: undergrad
 aliases:
   - Zyanya Camacho
