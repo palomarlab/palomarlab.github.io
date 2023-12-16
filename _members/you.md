@@ -7,4 +7,4 @@ links:
 #  github: john-doe
 ---
 
-If interested in our research, please contact Miguel for more information.
+If interested in our research, please contact Miguel for more information
