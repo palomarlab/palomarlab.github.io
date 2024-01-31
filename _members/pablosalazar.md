@@ -8,4 +8,4 @@ aliases:
 links:
 ---
 
-Born in southern Mexico City, Pablo is currently a freshman at the School of Sciences, UNAM majoring in Biology. He strong interest on the intersection of different scientific disciplines like biology, computer sciences, and maths. He loves science fiction, working out at home, and reading about economics.
+Born in southern Mexico City, Pablo is currently a freshman at the School of Sciences, UNAM majoring in Biology. He has strong interest on the intersection of different scientific disciplines like biology, computer sciences, and maths. He loves science fiction, working out at home, and reading about economics.
