@@ -1,10 +1,10 @@
 ---
-name: Isabel Reyes Gallegos
+name: Isabel Rivera Gallegos
 image: images/IsabelReyes.jpeg
 role: undergrad
 aliases:
-  - Tanya Isabel Reyes Gallegos
-  - Isabel Reyes Gallegos
+  - Tanya Isabel Rivera Gallegos
+  - Isabel Rivera Gallegos
 links:
 ---
 
