@@ -1,5 +1,5 @@
 ---
-name: Jair López Morales
+name: José Jair López Morales
 image: images/JairLopez.jpeg
 role: undergrad
 aliases:
