@@ -2,8 +2,8 @@
 title: Miguel joins the Department of Biochemistry
 author:
 tags:
-  - Miguel
-  - Biochemistry
+  - pi
+  - department
   - joins
 ---
 
