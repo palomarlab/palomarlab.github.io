@@ -22,6 +22,10 @@
   type: Preprint
   image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
 
+- id: issn:0185-5751
+  type: paper
+  image: https://www.medigraphic.com/images/cabezales/bioquimia-cbz.gif
+
 - id: doi:10.1111/tpj.15064
   type: paper
   image: https://retractionwatch.com/wp-content/uploads/2018/10/TPJ_Avatar_400x400.png
