@@ -1,7 +1,7 @@
 ---
 title: Our Research
 nav:
-  order: 2
+  order: 1
   tooltip: Abour our Research
 ---
 
