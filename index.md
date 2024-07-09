@@ -2,7 +2,7 @@
 ---
 
 # Palomar Lab
-We are interested on the study of chloroplast chromatin dynamics.
+We are interested on the study of chloroplast chromatin dynamics by using a mix of wet and dry lab methodologies. Our main tools are based on next generation sequencing and bioinformatics.
 {% include section.html %}
 
 ## Highlights
