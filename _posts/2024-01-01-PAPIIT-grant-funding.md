@@ -2,8 +2,7 @@
 title: The lab acquired its first grant from UNAM PAPIIT.
 author:
 tags:
-  - Grant
-  - PAPIIT
+  - grant
   - funding
 ---
 
