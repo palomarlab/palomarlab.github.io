@@ -12,36 +12,32 @@
   
 - id: doi:10.1111/tpj.16149
   type: paper
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ftheplantjournal&psig=AOvVaw0QNMGA0rjGPMNnKz86AFZi&ust=1720642213332000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCjl_HhmocDFQAAAAAdAAAAABAE
-
+  image: https://retractionwatch.com/wp-content/uploads/2018/10/TPJ_Avatar_400x400.png
+  
 - id: doi:10.1111/tpj.15882
   type: paper
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ftheplantjournal&psig=AOvVaw0QNMGA0rjGPMNnKz86AFZi&ust=1720642213332000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCjl_HhmocDFQAAAAAdAAAAABAE
-
+  image: https://retractionwatch.com/wp-content/uploads/2018/10/TPJ_Avatar_400x400.png
+  
 - id: doi:10.1101/2022.01.18.476797
   type: Preprint
   image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
 
 - id: doi:10.1111/tpj.15064
   type: paper
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ftheplantjournal&psig=AOvVaw0QNMGA0rjGPMNnKz86AFZi&ust=1720642213332000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCjl_HhmocDFQAAAAAdAAAAABAE
-
-- id: doi:10.1111/tpj.15064
-  type: paper
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.medigraphic.com%2Fbioquimia%2Fbioquimia%2Fe1-bqgral.htm&psig=AOvVaw1KnW6wQGASqdQLC7Y-3w9s&ust=1720642399482000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjMlcrimocDFQAAAAAdAAAAABAE
-
+  image: https://retractionwatch.com/wp-content/uploads/2018/10/TPJ_Avatar_400x400.png
+  
 - id: doi:10.1080/15592324.2017.1284724
   type: paper
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaftKGyKJxrwG6bi69jruLWziSy7ETTCDiIw&s
 
 - id: doi:10.1093/jxb/erw380
   type: paper
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJournal_of_Experimental_Botany&psig=AOvVaw18-jVJ9PHBmUlK9UwhTnTf&ust=1720642536360000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDvi47jmocDFQAAAAAdAAAAABAE
-
+  image: https://upload.wikimedia.org/wikipedia/en/8/88/Journal_of_Experimental_Botany.png
+  
 - id: doi:10.1038/srep02910
   type: paper
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fbionics-group.com%2Favailable-online-open-source-scientific-reports-nature-research%2F&psig=AOvVaw30NxuYZ3cK1Y0U03FCPgDr&ust=1720642608802000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOitgq7jmocDFQAAAAAdAAAAABAE
-
+  image: https://bionics-group.com/wp-content/uploads/2021/01/Sci-Reports-Nature.jpg
+  
 - id: doi:10.1007/s00425-012-1693-z
   type: paper
   image: https://pbs.twimg.com/profile_images/1735255692741668865/0p1K4I5H_400x400.jpg
