@@ -24,6 +24,8 @@
 
 - id: issn:0185-5751
   type: paper
+  date: 2009-01-01
+  authors: Nakamura-López Y, Esparza-Aguilar ML, Garrido-Olvera L, Palomar-Olguín VM, Gallardo-Pérez JC
   image: https://www.medigraphic.com/images/cabezales/bioquimia-cbz.gif
 
 - id: doi:10.1111/tpj.15064
