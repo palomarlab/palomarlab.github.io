@@ -2,16 +2,16 @@
 ---
 
 # Palomar Lab
-We are interested on the study of chloroplast chromatin dynamics by using a mix of wet and dry lab methodologies. Our main tools are based on next generation sequencing and bioinformatics.
+We are interested on the study of chloroplast chromatin dynamics by using a mix of wet and dry lab methodologies. Our main tools are based on next generation sequencing and bioinformatic data analysis.
 {% include section.html %}
 
 ## Highlights
 
-The Palomar Lab opened on August 1st, 2023. We are currently recruiting motivated people interested in plant genomics.
+Our was established on August 1st, 2023. We are currently recruiting motivated people interested in plant genomics, please browse our Contact page for more information.
 
 {% capture text %}
 
-We are interested in investigating how the chloroplast genome is organized within the nucleoid. Our aim is to understand this organization from an evolutionary perspective and apply this understanding for the design of more efficient chloroplast genomes.
+We are interested in investigating how the chloroplast genome is organized in nucleoids. Our aim is to understand this organization from an evolutionary perspective, and apply this understanding for the design of more efficient chloroplast genomes. Besides that, oue research has potential to be applied in efforts to increase plant productivity.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ We are interested in investigating how the chloroplast genome is organized withi
 
 {% capture text %}
 
-Our projects are based on two different avenues: 1) Understanding the genome organization in the green alga *Chlamydomonas reinhardtii*, and compare with our current models of land plant chloroplast nucleoids. 2) Analyze the effects of a highly efficient transcription process on the chloroplast DNA topology.
+Currently, our projects are based on two different avenues: 1) Understanding the chloroplast genome organization in the green alga *Chlamydomonas reinhardtii*, and compare with our current models of land plant chloroplast nucleoids. 2) Analyze the effects of a highly efficient transcription process on the chloroplast DNA topology.
 
 {%
   include button.html
