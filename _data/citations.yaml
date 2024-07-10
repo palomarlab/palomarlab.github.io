@@ -210,9 +210,10 @@
   image: https://opg.optica.org/images/conf_papers_thumbnail.jpg
 - id: issn:0185-5751
   title: Therapeutic approach of RNA interference
-  authors: []
+  authors: "Nakamura-L\xF3pez Y, Esparza-Aguilar ML, Garrido-Olvera L, Palomar-Olgu\xED\
+    n VM, Gallardo-P\xE9rez JC"
   publisher: Bioquimia
-  date: '2020-11-07'
+  date: ''
   link: https://www.medigraphic.com/cgi-bin/new/resumen.cgi?IDARTICULO=20780
   orcid: 0000-0003-4009-7030
   plugin: sources.py
