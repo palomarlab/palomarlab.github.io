@@ -15,12 +15,12 @@ We are interested in understanding the mechanisms that drive the three-dimension
 
 {% include section.html %}
 
-## Featured
+## Projects
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More 
+## Resources 
 
 {% include list.html component="card" data="projects" filters="group: more" style="small" %}
