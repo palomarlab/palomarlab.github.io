@@ -7,7 +7,7 @@ We are interested on the study of chloroplast chromatin dynamics by using a mix 
 
 ## Highlights
 
-Our was established on August 1st, 2023. We are currently recruiting motivated people interested in plant genomics, please browse our Contact page for more information.
+Our lab was established on August 1st, 2023. We are currently recruiting motivated people interested in plant genomics, please browse our Contact page for more information.
 
 {% capture text %}
 
@@ -16,7 +16,7 @@ We are interested in investigating how the chloroplast genome is organized in nu
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See the lab publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,7 +28,7 @@ We are interested in investigating how the chloroplast genome is organized in nu
   include feature.html
   image="images/photo2.png"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
@@ -51,7 +51,7 @@ Currently, our projects are based on two different avenues: 1) Understanding the
   include feature.html
   image="images/photo3.png"
   link="projects"
-  title="Our Projects"
+  title="Projects"
   flip=true
   style="bare"
   text=text
@@ -76,6 +76,6 @@ We are aimed to build a collaborative, inclusive and diverse team.
   include feature.html
   image="images/photo1.png"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}
