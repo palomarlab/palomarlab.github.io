@@ -16,7 +16,7 @@ Current team members
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Past team members / Coming soon
+Fun in the lab! / Coming soon
 
 {% include section.html %}
 
@@ -31,7 +31,7 @@ Past team members / Coming soon
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Fun in the lab! / Coming soon
+Past team members / Coming soon
 
 {% include section.html %}
 
