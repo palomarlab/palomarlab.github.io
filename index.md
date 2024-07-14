@@ -28,7 +28,7 @@ We are interested in investigating how the chloroplast genome is organized in nu
   include feature.html
   image="images/photo2.png"
   link="research"
-  title="Research"
+  title="Published research"
   text=text
 %}
 
