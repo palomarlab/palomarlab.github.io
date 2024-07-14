@@ -1,5 +1,5 @@
 ---
-title: Our Research
+title: Research
 nav:
   order: 1
   tooltip: Abour our Research
