@@ -51,7 +51,7 @@ Currently, our projects are based on two different avenues: 1) Understanding the
   include feature.html
   image="images/photo3.png"
   link="projects"
-  title="Projects"
+  title="Current projects"
   flip=true
   style="bare"
   text=text
