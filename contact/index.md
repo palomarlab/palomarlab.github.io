@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact / Join our lab
 
-We are located at Laboratory 103, Conjunto E - Ciudad Universitaria (UNAM), Mexico City
+We are located at Laboratory 103, Conjunto E, Facultad de Química - Ciudad Universitaria (UNAM), Mexico City
 
 {%
   include button.html
