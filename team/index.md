@@ -22,7 +22,7 @@ Fun in the lab! / Coming soon
 
 {% capture content %}
 
-{% include figure.html image="images/photo11.jpg" %}=
+{% include figure.html image="images/PHOTO-2024-08-09-11-39-20.jpg" %}=
 
 {% endcapture %}
 
