@@ -16,7 +16,7 @@ Current team members
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Fun in the lab! / Coming soon
+Fun in and outside the lab!
 
 {% include section.html %}
 
