@@ -22,7 +22,7 @@ Fun in and outside the lab!
 
 {% capture content %}
 
-{% include figure.html image="images/PHOTO-2024-08-09-11-39-20.jpg" %}=
+{% include figure.html image="images/PHOTO-2024-08-09-11-39-20.jpg" %}
 
 {% endcapture %}
 
