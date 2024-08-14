@@ -4,11 +4,11 @@
 
 - id: doi:10.1101/2024.03.01.582956
   type: Preprint
-  image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BioRxiv_logo.png/220px-BioRxiv_logo.png
 
 - id: doi:10.1101/2023.05.12.540520
   type: Preprint
-  image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BioRxiv_logo.png/220px-BioRxiv_logo.png
   
 - id: doi:10.1111/tpj.16149
   type: paper
@@ -20,7 +20,7 @@
   
 - id: doi:10.1101/2022.01.18.476797
   type: Preprint
-  image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BioRxiv_logo.png/220px-BioRxiv_logo.png
 
 - id: issn:0185-5751
   type: paper
