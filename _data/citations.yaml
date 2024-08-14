@@ -36,7 +36,7 @@
   plugin: sources.py
   file: sources.yaml
   type: Preprint
-  image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BioRxiv_logo.png/220px-BioRxiv_logo.png
 - id: doi:10.1101/2023.05.12.540520
   title: Transcription-directed membrane association organizes the chloroplast nucleoid
     structure
@@ -55,7 +55,7 @@
   plugin: sources.py
   file: sources.yaml
   type: Preprint
-  image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BioRxiv_logo.png/220px-BioRxiv_logo.png
 - id: doi:10.1111/tpj.16149
   title: "<scp><i>N</i><sup>6</sup>\u2010Methyladenosine</scp> modification of <scp>mRNA</scp>\
     \ contributes to the transition from <scp>2D</scp> to <scp>3D</scp> growth in\
@@ -109,7 +109,7 @@
   plugin: sources.py
   file: sources.yaml
   type: Preprint
-  image: https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/921bc0af-ca29-46d9-b935-2f9bfdcc5539.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BioRxiv_logo.png/220px-BioRxiv_logo.png
 - id: doi:10.1111/tpj.15064
   title: The canonical RdDM pathway mediates the control of seed germination timing
     under salinity
