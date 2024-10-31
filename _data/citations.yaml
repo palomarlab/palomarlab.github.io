@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s11103-024-01498-x
+  title: PAP1 and PAP7 are required for association of plastid-encoded RNA polymerase
+    with DNA
+  authors:
+  - Joyful Wang
+  - V. Miguel Palomar
+  - Ji-Hee Min
+  - Andrzej T. Wierzbicki
+  publisher: Plant Molecular Biology
+  date: '2024-09-20'
+  link: https://doi.org/g8pth4
+  orcid: 0000-0003-4009-7030
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://www.califesciences.org/wp-content/uploads/2021/11/Springer-Nature-1.png
 - id: doi:10.1073/pnas.2309244121
   title: Membrane association of active genes organizes the chloroplast nucleoid structure
   authors:
