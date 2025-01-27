@@ -19,16 +19,16 @@ undergrad:
   description: Undergraduate Student
 
 former:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-user-graduate
   description: Former Member
   
 programmer:
   icon: fa-solid fa-code
   description: Programmer
 
-#mascot:
-#  icon: fa-solid fa-dog
-#  description: Mascot
+mascot:
+  icon: fa-solid fa-dog
+  description: Mascot
 
 # general
 
