@@ -19,7 +19,7 @@ undergrad:
   description: Undergraduate Student
 
 former:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-microscope
   description: Former Member
   
 programmer:
