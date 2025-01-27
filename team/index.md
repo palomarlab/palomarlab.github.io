@@ -12,7 +12,7 @@ Current team members
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -34,6 +34,8 @@ Past team members
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: former" %}
+{% capture content %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include figure.html image="images/photo11.jpg" %}=
+
+{% endcapture %}
