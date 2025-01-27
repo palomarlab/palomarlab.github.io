@@ -12,7 +12,7 @@ Current team members
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -31,13 +31,13 @@ Fun in and outside the lab!
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Past team members / Coming soon
+Past team members
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo11.jpg" %}=
+{% include list.html data="members" component="portrait" filters="role: former)" %}
 
 {% endcapture %}
 
