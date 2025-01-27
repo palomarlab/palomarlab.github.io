@@ -1,7 +1,7 @@
 ---
 name: Monserrat Martínez Hernández
 image: images/monserratmartinez.jpeg
-role: undergrad
+role: former
 aliases:
   - Monserrat Martínez Hernández
   - Monserrat Martínez
