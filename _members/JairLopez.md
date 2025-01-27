@@ -1,7 +1,7 @@
 ---
 name: José Jair López Morales
 image: images/JairLopez.jpeg
-role: undergrad
+role: mascot
 aliases:
   - José Jair López Morales
   - Jair López Morales
