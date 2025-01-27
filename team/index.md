@@ -28,18 +28,15 @@ Fun in and outside the lab!
 
 {% include grid.html style="square" content=content %}
 
-
 {% include section.html background="images/background.jpg" dark=true %}
 
 Past team members
 
 {% include section.html %}
 
-{% capture content %}
-
 {% include list.html data="members" component="portrait" filters="role: former)" %}
 
-{% endcapture %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 {% include grid.html style="square" content=content %}
 
