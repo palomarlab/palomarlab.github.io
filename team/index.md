@@ -34,9 +34,6 @@ Past team members
 
 {% include section.html %}
 
-#{% include list.html data="members" component="portrait" filters="role: former" %}
+{% include list.html data="members" component="portrait" filters="role: former" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
-{% include grid.html style="square" content=content %}
-
