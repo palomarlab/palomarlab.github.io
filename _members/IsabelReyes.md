@@ -1,7 +1,7 @@
 ---
 name: Isabel Rivera Gallegos
 image: images/IsabelReyes.jpeg
-role: undergrad
+role: former
 aliases:
   - Tanya Isabel Rivera Gallegos
   - Isabel Rivera Gallegos
