@@ -1,7 +1,7 @@
 ---
 name: Pablo Salazar Méndez
 image: images/pablo_salazar.jpg
-role: undergrad
+role: former
 aliases:
   - Pablo Salazar Méndez
   - Pablo Salazar
